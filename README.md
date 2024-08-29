@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **JavaScript, React**
 
-- 📫 How to reach me **mail.ashishbhusal@gmail.com**
+- 📫 How to reach me **me.ashishbhusal@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
